@@ -1,6 +1,6 @@
 ## Project description
 This project is inspired by the world-famous Wolfenstein 3D game, which
-was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to
+was the first FPS ever. The project enabled me to explore ray-casting. The goal is to
 make a dynamic view inside a maze, in which you’ll have to find your way.
 
 ![image](https://user-images.githubusercontent.com/62575348/188270077-bb3d800d-b604-453b-bec4-faf381dd942c.png)
